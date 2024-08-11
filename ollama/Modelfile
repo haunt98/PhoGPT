@@ -1,1 +1,1 @@
-FROM PhoGPT-4B-Chat.gguf
+FROM ../models/PhoGPT-4B-Chat.gguf
